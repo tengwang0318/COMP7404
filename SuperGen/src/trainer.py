@@ -34,7 +34,6 @@ import transformers
 from transformers.data.data_collator import DataCollator, DataCollatorWithPadding, default_data_collator
 from transformers.file_utils import WEIGHTS_NAME, is_datasets_available, is_in_notebook, is_torch_tpu_available, is_sagemaker_mp_enabled
 from transformers.integrations import (
-    default_hp_search_backend,
     is_comet_available,
     is_optuna_available,
     is_ray_available,
@@ -64,7 +63,7 @@ from transformers.trainer_utils import (
     PredictionOutput,
     TrainOutput,
     default_compute_objective,
-    default_hp_space,
+
     set_seed,
 )
 from transformers.training_args import TrainingArguments

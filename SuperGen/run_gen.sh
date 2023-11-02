@@ -46,7 +46,7 @@ case $TASK in
         TASK_EXTRA="--pretrain_corpus_dir pretrain_corpus/wiki_long.txt"
         ;;
 esac
-
+NUM_GEN=10
 # Generate training data
 python gen_train_data.py --task $TASK --label $LABEL --save_dir $SAVE_DIR --print_res \
                          --num_gen $NUM_GEN --max_len $MAX_LEN --temperature $TEMP \

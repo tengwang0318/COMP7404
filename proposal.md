@@ -139,7 +139,7 @@ Even with the above training data selection procedure, the resulting training se
 
 ![](pics/9.png)
 
-## hird Part -- Pros and Cons:
+## third Part -- Pros and Cons:
 
 ### Pros:
 
