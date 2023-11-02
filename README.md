@@ -2,7 +2,9 @@
 
 run the generating data and selecting data scripts respectively.
 
-I have already set the number of generated data very small and could finish the whole process of generating and selecting in 2 minutes with CPU but requires lots of RAM!
+I have modified the author's code, since there are some issues need to fix. I have already set the number of generated data very small and could finish the whole process of generating and selecting in 2 minutes with CPU but requires lots of RAM!
+
+Running methods could be found in the [demo.ipynb](demo.ipynb)
 
 ## One way 
 
@@ -33,6 +35,7 @@ python gen_train_data.py --task SST-2 label all --save_dir temp_gen --print_res 
 ```
 
 ## the log:
+[log file](log.log)
 
 ```
 Namespace(pretrain_corpus_dir='pretrain_corpus/wiki_long.txt', task='MRPC', label='all', model_type='ctrl', model_name_or_path='ctrl', temperature='0', repetition_reward=None, repetition_penalty=None, p=1.0, k=10, seed=42, no_cuda=False, fp16=False, num_gen=10, max_len=40, save_dir='temp_gen', print_res=True)
@@ -96,7 +99,7 @@ saved to data/MRPC/train.json
 
 
 
-The bidirectional PLM code has lots of error🤷 and is extremely old fashioned, so I haven't fixed those bugs.
+The bidirectional PLM code has lots of error🤷 and is extremely old-fashioned, so I haven't fixed those bugs.
 
 
 
