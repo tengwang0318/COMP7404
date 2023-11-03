@@ -1,1 +1,146 @@
-[{"text1": "While in Drill Instructor status, both male and female DIs wear a World War I campaign hat with their service and utility uniforms.", "text2": "Both male and female DIs wear a World War I campaign hat with their service uniforms.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.14014530181884766}, {"text1": "Bandar bin Mohammed bin Abdulrahman Al-Saud (; 1924 \u2013 21 January 2020), was a Saudi prince as member of House of Saud, son of Muhammad bin Abdul-Rahman, nephew of Ibn Saud and cousin of current monarch Salman of Saudi Arabia.", "text2": "He is the grandson of Ibn Saud.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -0.9371277093887329}, {"text1": "On December 8, 2019 after Norvell's departure to Florida State, Silverfield served as the interim head coach before being promoted to head coach on December 13, 2019.", "text2": "Silverfield served as the interim head coach after Norvell's departure to Florida State, before being promoted on December 13, 2019.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.16363264620304108}, {"text1": "From 2000 until 2004 she led a Stability Pact for South Eastern Europe task force against human trafficking, and in 2004 was appointed as the Organization for Security and Co-operation in Europe's special representative for the issue.", "text2": "From 2003 to 2005 she served as the Special Representative of the Secretary-General on Human Rights Issues in Central Africa.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.0093516111373901}, {"text1": "The film won four Golden Eagle Awards (2020) for Best Motion Picture, Best Leading Actor (Alexander Petrov), Best Supporting Actor (Ivan Yankovsky), and Best Film Editing.", "text2": "It won four Golden Eagle Awards for Best Film and Best Leading Actor (Alexander Petrov), Best Supporting Actress (Ivan Yankovsky), and Best Editing.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.23435038328170776}, {"text1": "The film won four Golden Eagle Awards (2020) for Best Motion Picture, Best Leading Actor (Alexander Petrov), Best Supporting Actor (Ivan Yankovsky), and Best Film Editing.", "text2": "The film was nominated for three awards at the European Film Awards.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.0726913213729858}, {"text1": "From 2000 until 2004 she led a Stability Pact for South Eastern Europe task force against human trafficking, and in 2004 was appointed as the Organization for Security and Co-operation in Europe's special representative for the issue.", "text2": "She was the representative for human trafficking, and in 2004 led a task force against trafficking as special representative of the Organization for Security and Co-operation in Europe (OSCE).", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.4007759690284729}, {"text1": "Its basin contains over 3000 rivers, of which 425 are longer than and 11 are longer than ; 1011 of those rivers directly flow into the Donets.", "text2": "There are more than 100 lakes in the basin.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.372369647026062}, {"text1": "In the same year, Prince Gong displeased Empress Dowager Cixi when he strongly opposed her plan to rebuild the Old Summer Palace.", "text2": "He opposed the plan to rebuild Old Summer Palace.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.4058457016944885}, {"text1": "He had also gone to seek medical attention for his failing health and settle a business deal with his Dutch associate.", "text2": "He was in the process of writing a book about his experiences during the war.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.4308563470840454}, {"text1": "Karstadt contributed a large sum of money towards the decoration of the station and was in return rewarded with direct access from the station to the store.", "text2": "The station was a direct access to Karstadt and from there to the store.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.5564016699790955}, {"text1": "On December 8, 2019 after Norvell's departure to Florida State, Silverfield served as the interim head coach before being promoted to head coach on December 13, 2019.", "text2": "He was named the interim athletic director at the University of Central Florida.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.5110338926315308}, {"text1": "Its basin contains over 3000 rivers, of which 425 are longer than and 11 are longer than ; 1011 of those rivers directly flow into the Donets.", "text2": "The basin of the Donets contains over 3000 rivers and streams.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -0.5840206146240234}, {"text1": "On the conceptual side, securing organs at optimum times does not require us to constantly redefine death and when it occurs so that persons who are alive may have their organs taken.", "text2": "We can use this concept of optimal time to determine how long a person should live in order to be able to donate organs.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.6909466981887817}, {"text1": "He had also gone to seek medical attention for his failing health and settle a business deal with his Dutch associate.", "text2": "His health had gone to a very bad and dangerous place.", "label": "entailment", "start_prompt": "Wikipedia ", "conj_prompt": "In other words,", "score": -1.1980963945388794}, {"text1": "In the same year, Prince Gong displeased Empress Dowager Cixi when he strongly opposed her plan to rebuild the Old Summer Palace.", "text2": "He was not happy with the fact that his mother Consort Wang had been made a consort and given the title of empress, which angered him.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.6959114074707031}, {"text1": "Karstadt contributed a large sum of money towards the decoration of the station and was in return rewarded with direct access from the station to the store.", "text2": "He was given the right to sell goods at the store for a fixed price.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.7875747680664062}, {"text1": "While in Drill Instructor status, both male and female DIs wear a World War I campaign hat with their service and utility uniforms.", "text2": "The uniform is worn by all members of the drill team as well as the drill instructor during the annual training exercises.", "label": "not_entailment", "start_prompt": "Wikipedia ", "conj_prompt": "Furthermore,", "score": -1.9901036024093628}]
+[
+  {
+    "text1": "While in Drill Instructor status, both male and female DIs wear a World War I campaign hat with their service and utility uniforms.",
+    "text2": "Both male and female DIs wear a World War I campaign hat with their service uniforms.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.14014530181884766
+  },
+  {
+    "text1": "Bandar bin Mohammed bin Abdulrahman Al-Saud (; 1924 \u2013 21 January 2020), was a Saudi prince as member of House of Saud, son of Muhammad bin Abdul-Rahman, nephew of Ibn Saud and cousin of current monarch Salman of Saudi Arabia.",
+    "text2": "He is the grandson of Ibn Saud.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -0.9371277093887329
+  },
+  {
+    "text1": "On December 8, 2019 after Norvell's departure to Florida State, Silverfield served as the interim head coach before being promoted to head coach on December 13, 2019.",
+    "text2": "Silverfield served as the interim head coach after Norvell's departure to Florida State, before being promoted on December 13, 2019.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.16363264620304108
+  },
+  {
+    "text1": "From 2000 until 2004 she led a Stability Pact for South Eastern Europe task force against human trafficking, and in 2004 was appointed as the Organization for Security and Co-operation in Europe's special representative for the issue.",
+    "text2": "From 2003 to 2005 she served as the Special Representative of the Secretary-General on Human Rights Issues in Central Africa.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.0093516111373901
+  },
+  {
+    "text1": "The film won four Golden Eagle Awards (2020) for Best Motion Picture, Best Leading Actor (Alexander Petrov), Best Supporting Actor (Ivan Yankovsky), and Best Film Editing.",
+    "text2": "It won four Golden Eagle Awards for Best Film and Best Leading Actor (Alexander Petrov), Best Supporting Actress (Ivan Yankovsky), and Best Editing.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.23435038328170776
+  },
+  {
+    "text1": "The film won four Golden Eagle Awards (2020) for Best Motion Picture, Best Leading Actor (Alexander Petrov), Best Supporting Actor (Ivan Yankovsky), and Best Film Editing.",
+    "text2": "The film was nominated for three awards at the European Film Awards.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.0726913213729858
+  },
+  {
+    "text1": "From 2000 until 2004 she led a Stability Pact for South Eastern Europe task force against human trafficking, and in 2004 was appointed as the Organization for Security and Co-operation in Europe's special representative for the issue.",
+    "text2": "She was the representative for human trafficking, and in 2004 led a task force against trafficking as special representative of the Organization for Security and Co-operation in Europe (OSCE).",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.4007759690284729
+  },
+  {
+    "text1": "Its basin contains over 3000 rivers, of which 425 are longer than and 11 are longer than ; 1011 of those rivers directly flow into the Donets.",
+    "text2": "There are more than 100 lakes in the basin.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.372369647026062
+  },
+  {
+    "text1": "In the same year, Prince Gong displeased Empress Dowager Cixi when he strongly opposed her plan to rebuild the Old Summer Palace.",
+    "text2": "He opposed the plan to rebuild Old Summer Palace.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.4058457016944885
+  },
+  {
+    "text1": "He had also gone to seek medical attention for his failing health and settle a business deal with his Dutch associate.",
+    "text2": "He was in the process of writing a book about his experiences during the war.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.4308563470840454
+  },
+  {
+    "text1": "Karstadt contributed a large sum of money towards the decoration of the station and was in return rewarded with direct access from the station to the store.",
+    "text2": "The station was a direct access to Karstadt and from there to the store.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.5564016699790955
+  },
+  {
+    "text1": "On December 8, 2019 after Norvell's departure to Florida State, Silverfield served as the interim head coach before being promoted to head coach on December 13, 2019.",
+    "text2": "He was named the interim athletic director at the University of Central Florida.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.5110338926315308
+  },
+  {
+    "text1": "Its basin contains over 3000 rivers, of which 425 are longer than and 11 are longer than ; 1011 of those rivers directly flow into the Donets.",
+    "text2": "The basin of the Donets contains over 3000 rivers and streams.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -0.5840206146240234
+  },
+  {
+    "text1": "On the conceptual side, securing organs at optimum times does not require us to constantly redefine death and when it occurs so that persons who are alive may have their organs taken.",
+    "text2": "We can use this concept of optimal time to determine how long a person should live in order to be able to donate organs.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.6909466981887817
+  },
+  {
+    "text1": "He had also gone to seek medical attention for his failing health and settle a business deal with his Dutch associate.",
+    "text2": "His health had gone to a very bad and dangerous place.",
+    "label": "entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "In other words,",
+    "score": -1.1980963945388794
+  },
+  {
+    "text1": "In the same year, Prince Gong displeased Empress Dowager Cixi when he strongly opposed her plan to rebuild the Old Summer Palace.",
+    "text2": "He was not happy with the fact that his mother Consort Wang had been made a consort and given the title of empress, which angered him.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.6959114074707031
+  },
+  {
+    "text1": "Karstadt contributed a large sum of money towards the decoration of the station and was in return rewarded with direct access from the station to the store.",
+    "text2": "He was given the right to sell goods at the store for a fixed price.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.7875747680664062
+  },
+  {
+    "text1": "While in Drill Instructor status, both male and female DIs wear a World War I campaign hat with their service and utility uniforms.",
+    "text2": "The uniform is worn by all members of the drill team as well as the drill instructor during the annual training exercises.",
+    "label": "not_entailment",
+    "start_prompt": "Wikipedia ",
+    "conj_prompt": "Furthermore,",
+    "score": -1.9901036024093628
+  }
+]

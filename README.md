@@ -11,6 +11,8 @@ Running methods could be found in the [demo.ipynb](demo.ipynb)
 just run 
 
 ```
+!git clone https://github.com/tengwang0318/COMP7404.git
+!cd SuperGen
 !chmod +x run_gen.sh
 !./run_gen.sh SST-2
 
@@ -19,6 +21,11 @@ just run
 then you could finish generating data and selecting generated data.
 
 ## Another way
+
+```
+!git clone https://github.com/tengwang0318/COMP7404.git
+!cd SuperGen
+```
 
 run 
 
