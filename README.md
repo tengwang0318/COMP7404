@@ -6,6 +6,14 @@ I have modified the author's code, since there are some issues need to fix. I ha
 
 Running methods could be found in the [demo.ipynb](demo.ipynb)
 
+### Example
+
+Both samples have the same text1 and different labels, so the model generates the different sentences based on the different labels.
+
+![](pics/10.png)
+
+
+
 ## One way 
 
 just run 
