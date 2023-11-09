@@ -12,6 +12,12 @@ Both samples have the same text1 and different labels, so the model generates th
 
 ![](pics/10.png)
 
+Firstly,  pip install the packages.
+
+```
+!pip install transformers=4.24.0, torch, sentencepiece, tqdm, numpy, nltk
+```
+
 
 
 ## One way 
